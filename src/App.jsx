@@ -11,6 +11,10 @@ function App() {
         <div>
           <NavLink to="/">Home</NavLink>
           <NavLink to="/projects">Projects</NavLink>
+
+          <a href="/portfolio/resume.pdf" target="_blank" rel="noreferrer">
+          Resume
+          </a>
         </div>
       </nav>
 
