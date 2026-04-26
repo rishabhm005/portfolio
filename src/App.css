@@ -143,3 +143,11 @@ body {
 .hero-links a:hover {
   color: #7bbcff;
 }
+
+@media (max-width: 768px) {
+  .container h1 {
+    font-size: 34px;
+    line-height: 1.15;
+    margin-bottom: 14px;
+  }
+}
